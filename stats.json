@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-8937f8c4fb32c6e3dfda.js",
-      "component---src-pages-index-js-8937f8c4fb32c6e3dfda.js.map"
+      "component---src-pages-index-js-d5e897b27182bcc9943d.js",
+      "component---src-pages-index-js-d5e897b27182bcc9943d.js.map"
     ],
     "path---": [
       "path----7d450ad9edaf637002cf.js",
@@ -13,8 +13,8 @@
       "component---src-templates-blog-post-js-b84dc952d929669935d8.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-b92f7cd1fe6a3bda5d24.js",
-      "component---src-layouts-index-js-b92f7cd1fe6a3bda5d24.js.map"
+      "component---src-layouts-index-js-76105df259a28678a0d3.js",
+      "component---src-layouts-index-js-76105df259a28678a0d3.js.map"
     ],
     "path---index": [
       "path---index-583f58f8793a1c2dc1ad.js",
@@ -25,12 +25,20 @@
       "component---src-pages-my-files-js-dfac0cc612a856af5689.js.map"
     ],
     "path---my-files": [
-      "path---my-files-624ea002117eebd09001.js",
-      "path---my-files-624ea002117eebd09001.js.map"
+      "path---my-files-fd0cf3ff1a4f8b6e7ae8.js",
+      "path---my-files-fd0cf3ff1a4f8b6e7ae8.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-cd51d374be13da4bdeeb.js",
+      "component---src-pages-404-js-cd51d374be13da4bdeeb.js.map"
     ],
     "commons": [
-      "commons-6eab7804675cd90c7432.js",
-      "commons-6eab7804675cd90c7432.js.map"
+      "commons-cb6d6b5da3176d792b3d.js",
+      "commons-cb6d6b5da3176d792b3d.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---pandas-and-bananas": [
       "path---pandas-and-bananas-b3ce60024787ff23dce2.js",
@@ -41,8 +49,12 @@
       "path---sweet-pandas-eating-sweets-765a0771e51424303639.js.map"
     ],
     "app": [
-      "app-e5de0943f7ecb01945a5.js",
-      "app-e5de0943f7ecb01945a5.js.map"
+      "app-a392de366b6d97a9a00e.js",
+      "app-a392de366b6d97a9a00e.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-about-js": [
       "component---src-pages-about-js-ac34833d9ef78317d25a.js",
